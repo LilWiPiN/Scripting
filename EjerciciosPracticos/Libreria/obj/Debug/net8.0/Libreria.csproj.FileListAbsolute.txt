@@ -1,0 +1,15 @@
+/workspaces/Scripting/EjerciciosPracticos/Libreria/bin/Debug/net8.0/Libreria
+/workspaces/Scripting/EjerciciosPracticos/Libreria/bin/Debug/net8.0/Libreria.deps.json
+/workspaces/Scripting/EjerciciosPracticos/Libreria/bin/Debug/net8.0/Libreria.runtimeconfig.json
+/workspaces/Scripting/EjerciciosPracticos/Libreria/bin/Debug/net8.0/Libreria.dll
+/workspaces/Scripting/EjerciciosPracticos/Libreria/bin/Debug/net8.0/Libreria.pdb
+/workspaces/Scripting/EjerciciosPracticos/Libreria/obj/Debug/net8.0/Libreria.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Scripting/EjerciciosPracticos/Libreria/obj/Debug/net8.0/Libreria.AssemblyInfoInputs.cache
+/workspaces/Scripting/EjerciciosPracticos/Libreria/obj/Debug/net8.0/Libreria.AssemblyInfo.cs
+/workspaces/Scripting/EjerciciosPracticos/Libreria/obj/Debug/net8.0/Libreria.csproj.CoreCompileInputs.cache
+/workspaces/Scripting/EjerciciosPracticos/Libreria/obj/Debug/net8.0/Libreria.sourcelink.json
+/workspaces/Scripting/EjerciciosPracticos/Libreria/obj/Debug/net8.0/Libreria.dll
+/workspaces/Scripting/EjerciciosPracticos/Libreria/obj/Debug/net8.0/refint/Libreria.dll
+/workspaces/Scripting/EjerciciosPracticos/Libreria/obj/Debug/net8.0/Libreria.pdb
+/workspaces/Scripting/EjerciciosPracticos/Libreria/obj/Debug/net8.0/Libreria.genruntimeconfig.cache
+/workspaces/Scripting/EjerciciosPracticos/Libreria/obj/Debug/net8.0/ref/Libreria.dll
