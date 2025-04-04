@@ -8,8 +8,6 @@ Rey Valentin Arias Perez
 
 Pascualtobias Rendon
 
-a
-
 ## Preguntas teóricas:
 
 ### ¿Qué son los principios SOLID? 
@@ -67,7 +65,15 @@ Es una solucion de diseño o implementacion que parece correcta al principio, pe
 
 #### Ejemplos:
 
-* a
+* **Código espagueti:**
 
-* a
+Código desorganizado y con flujos de control complejos.
+
+![Código espagueti](image.png)
+
+* **God object:**
+
+Objeto que asume demasiadas responsabilidades dentro del codigo, lo que viola el principio de "Single Responsability Principle".
+
+![God object](image-1.png)
 
